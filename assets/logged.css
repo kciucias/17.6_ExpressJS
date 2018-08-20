@@ -23,19 +23,6 @@ body {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 48px;
 }
 
-p {
-    font-size: 22px;
-    margin-top: 0;
-}
-
-button {
-    background-color: blue;
-    color: #fff;
-    max-width: 100px;
-    max-height: 40px;
-    width: 100px;
-    height: 40px;
-}
