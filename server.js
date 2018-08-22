@@ -15,7 +15,7 @@ app.get('/auth/google', function(req, res){
     res.render('logged');
 });
 
-app.listen(3000);
+app.listen(8080);
 app.use(function (req, res, next) {
     res.status(404).send('Sorry! Something went wrong:/')
 });
